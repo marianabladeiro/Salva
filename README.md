@@ -1,3 +1,3 @@
 # Salva
-Especially designed for women, Salva is a mobile app, developed with Flutter, with the intent to assure the security and provide defense mechanisms to someone who feels in danger.  
+Especially designed for women, Salva is a mobile app, developed with Flutter, with the intent to make people feel safe and provide defense mechanisms when one feels or is in danger. 
 Currently being developed.
